@@ -107,6 +107,7 @@ It allows:
 ---
 ## 📂 Folder Structure
 
+```bash
 src/
 │
 ├── assets/
